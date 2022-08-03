@@ -22,8 +22,7 @@ router.route('/')
         res.render('pages/register')
     })
     .post(validation(), (req, res, next) => {
-        // เมื่อสมัครสมาชิก ผานการรวจสอบ ลิ ่ ้
-        งค์ไปหน้า / me
+        // เมื่อสมัครสมาชิก ผานการรวจสอบ ลิ้งค์ไปหน้า / me
 
         res.redirect('/me')
     })

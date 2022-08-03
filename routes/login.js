@@ -20,8 +20,7 @@ router.route('/')
         res.render('pages/login')
     })
     .post(validation(), (req, res, next) => {
-        // ผานการรวจสอบ ลิ ่ ้
-        งค์ไปหน้า / me
+        // ผานการรวจสอบ ลิ้งค์ไปหน้า / me
         res.redirect('/me')
     })
 module.exports = router
