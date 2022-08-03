@@ -4,6 +4,6 @@ Frist install NodeJs
 npm init
 npm install express
 npm install ejs
-npm install @hai/joi
+npm install @hapi/joi
 npm install nodemon
 >> End
