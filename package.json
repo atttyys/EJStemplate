@@ -1,0 +1,25 @@
+{
+  "name": "ejstemplate",
+  "version": "1.0.0",
+  "description": "Frist install NodeJs\r # EJStemplate\r >> Next Step\r npm init\r npm install express\r npm install ejs\r npm install @hai/joi\r npm install nodemon\r >> End",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atttyys/EJStemplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atttyys/EJStemplate/issues"
+  },
+  "homepage": "https://github.com/atttyys/EJStemplate#readme",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
