@@ -1,2 +1,9 @@
+Frist install NodeJs
 # EJStemplate
-# EJStemplate
+>> Next Step
+npm init
+npm install express
+npm install ejs
+npm install @hai/joi
+npm install nodemon
+>> End
